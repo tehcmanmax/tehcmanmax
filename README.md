@@ -19,7 +19,8 @@ public class RealTehcMan {
     private static String name = "Max Dmytrenko";
     private static String university = "Uniwersytet Adama Mickiewicza (UAM)";
     private static String degree = "Bachelor of Computer Science";
-    private String CurrentFocus = "Developing backend apps using Java";
+    
+    private String CurrentFocus = "Developing backend apps/webapps using Java";
 
     enum TechStack {
         JAVA, JPA, MVC, SQL, SPRINGBOOT, JUINT4, CRUD, REST, C, PYTHON;
@@ -42,7 +43,7 @@ public class RealTehcMan {
         }
     }
 
-    public ArrayList<Object> ambitions() {
+    public ArrayList<Activity> ambitions() {
         ArrayList<Activity> activities = new ArrayList<>(
                 "Crypto investor",
                 "Owner of delivery company (sp. z.o.o)",
