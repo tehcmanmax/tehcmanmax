@@ -3,10 +3,6 @@
  src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="40%"/><br>
  always busy, always on the grind</p>
 
-<p align="center">
- always busy, always on the grind<br>
- </p>
-
 
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there! I'm Max Dmytrenko</h2>
 
