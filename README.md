@@ -43,9 +43,9 @@ public class RealTehcMan {
 
     public ArrayList<String> ambitions() {
         ArrayList<String> activities = new ArrayList<>(Arrays.asList(
-                "Owner of delivery company (sp. z.o.o)\n",
-                "Productivity nerd\n")),
-                "Crypto investor\n";
+                "Owner of delivery company (sp. z.o.o)",
+                "Productivity nerd")),
+                "Crypto investor";
         return activities;
     }
 }
