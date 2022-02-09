@@ -52,7 +52,7 @@ public class RealTehcMan {
 
 ```
 
-<p align="center" >You can find me on <br>[![LinkedIn][2.2]][2].</p>
+<p align="center" >You can find me on <br>[![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
@@ -63,3 +63,4 @@ public class RealTehcMan {
 
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://www.linkedin.com/in/realmaxdmytrenko/
+ </p>
