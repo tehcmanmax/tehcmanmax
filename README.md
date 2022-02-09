@@ -46,7 +46,6 @@ public class RealTehcMan {
                 "Crypto investor"));
         return activities;
     }
-
 }
 
 ```
