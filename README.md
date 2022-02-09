@@ -52,4 +52,4 @@ public class RealTehcMan {
 }
 
 ```
-<p align="center">You can find me on my <a href="tehcman.com">webste</a></p>
+<p align="center">You can contact me via my <a href="tehcman.com">website</a></p>
