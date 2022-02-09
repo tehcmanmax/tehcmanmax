@@ -25,8 +25,6 @@ public class RealTehcMan {
 
     enum TechStack {
         JAVA, JPA, MVC, SQL, SPRINGBOOT, JUINT4, CRUD, REST, C, PYTHON;
-
-
     }
 
     public String languages(String enviroment) {
@@ -44,11 +42,11 @@ public class RealTehcMan {
         }
     }
 
-    public ArrayList<Activity> ambitions() {
-        ArrayList<Activity> activities = new ArrayList<>(
-                "Crypto investor",
-                "Owner of delivery company (sp. z.o.o)",
-                "Productivity nerd");
+    public ArrayList<String> ambitions() {
+        ArrayList<String> activities = new ArrayList<>(Arrays.asList(
+                "Crypto investor\n",
+                "Owner of delivery company (sp. z.o.o)\n",
+                "Productivity nerd\n"));
         return activities;
     }
 }
