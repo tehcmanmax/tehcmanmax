@@ -1,3 +1,14 @@
+
+<p align="center" ><img 
+ src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="40%"/></p>
+
+<p align="center">
+ 💎 💎 💎 </br>
+ Let's coding every day, Learn every time.<br>
+ Let's go beyond our limits<br>
+</p>
+
+
 ### Hi there 👋
 
 <!--
