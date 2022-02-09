@@ -52,7 +52,7 @@ public class RealTehcMan {
 
 ```
 
-You can find me on [![LinkedIn][2.2]][2].
+<p align="center" >You can find me on <br>[![LinkedIn][2.2]][2].</p>
 
 <!-- Icons -->
 
