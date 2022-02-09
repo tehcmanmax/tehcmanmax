@@ -45,4 +45,4 @@ public class RealTehcMan {
 }
 
 ```
-<p align="center">Visit my <a href="tehcman.com">website</a>!</p>
+<p align="center">Visit my <a href="https://tehcman.com/">website</a>!</p>
