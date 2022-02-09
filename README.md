@@ -43,7 +43,10 @@ public class RealTehcMan {
     }
 
     public ArrayList<Object> ambitions() {
-        ArrayList<Activity> activities = new ArrayList<>("Crypto investor", "Owner of delivery company (sp. z.o.o)", "Productivity nerd");
+        ArrayList<Activity> activities = new ArrayList<>(
+                "Crypto investor",
+                "Owner of delivery company (sp. z.o.o)",
+                "Productivity nerd");
         return activities;
     }
 }
