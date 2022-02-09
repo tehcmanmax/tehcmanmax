@@ -13,8 +13,6 @@
 ```java
 package tehcman.com;
 
-import java.util.ArrayList;
-
 public class RealTehcMan {
     private static String name = "Max Dmytrenko";
     private static String university = "Uniwersytet Adama Mickiewicza (UAM)";
