@@ -14,7 +14,7 @@ public class RealTehcMan {
     private static String university = "Uniwersytet Adama Mickiewicza (UAM)";
     private static String degree = "Bachelor of Computer Science";
     
-    private String CurrentFocus = "Developing backend apps/webapps using Java";
+    private String currentFocus = "Developing backend apps/webapps using Java";
 
     enum TechStack {
         JAVA, JPA, MVC, SQL, SPRINGBOOT, JUINT4, CRUD, REST, C;
