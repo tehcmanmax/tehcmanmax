@@ -7,10 +7,10 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there! I'm Max</h2>
 
 ```java
-package tehcman.com;
+package com.tehcman;
 
 public class RealTehcMan {
-    private static String name = "Max Dmytrenko";
+    private static String name = "Max";
     private static String university = "Uniwersytet Adama Mickiewicza (UAM)";
     private static String degree = "Bachelor of Computer Science";
     
