@@ -17,7 +17,7 @@ public class RealTehcMan {
     private String currentFocus = "Developing backend apps/webapps using Java";
 
     enum TechStack {
-        JAVA, JPA, MVC, SQL, SPRINGBOOT, JUINT4, CRUD, REST, C;
+        JAVA, JPA, MVC, SQL, SPRINGBOOT, JUINT4, CRUD, REST, C,CPP
     }
 
     public String languages(String enviroment) {
@@ -36,7 +36,7 @@ public class RealTehcMan {
     }
 
     public ArrayList<String> activities() {
-        return new ArrayList<String>(Arrays.asList(
+        return new ArrayList<>(Arrays.asList(
                 "Owner of delivery company (sp. z.o.o)",
                 "Productivity nerd",
                 "Crypto investor"));
