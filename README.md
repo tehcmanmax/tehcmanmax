@@ -35,12 +35,11 @@ public class RealTehcMan {
         }
     }
 
-    public ArrayList<String> ambitions() {
-        ArrayList<String> activities = new ArrayList<>(Arrays.asList(
+    public ArrayList<String> activities() {
+        return new ArrayList<String>(Arrays.asList(
                 "Owner of delivery company (sp. z.o.o)",
                 "Productivity nerd",
                 "Crypto investor"));
-        return activities;
     }
 }
 
