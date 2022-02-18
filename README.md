@@ -10,9 +10,9 @@
 package com.tehcman;
 
 public class RealTehcMan {
-    private static String name = "Max";
-    private static String university = "Uniwersytet Adama Mickiewicza (UAM)";
-    private static String degree = "Bachelor of Computer Science";
+    private final String name = "Max";
+    private final String university = "Uniwersytet Adama Mickiewicza (UAM)";
+    private final String degree = "Bachelor of Computer Science";
     
     private String currentFocus = "Developing backend apps/webapps using Java";
 
