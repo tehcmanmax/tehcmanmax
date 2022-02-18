@@ -17,7 +17,7 @@ public class RealTehcMan {
     private String currentFocus = "Developing backend apps/webapps using Java";
 
     enum TechStack {
-        JAVA, JPA, MVC, SQL, SPRINGBOOT, JUINT4, CRUD, REST, C,CPP
+        JAVA, JPA, MVC, SQL, SPRINGBOOT, JUINT4, CRUD, REST, C, CPP
     }
 
     public String languages(String enviroment) {
