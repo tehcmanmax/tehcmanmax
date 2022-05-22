@@ -43,4 +43,3 @@ public class RealTehcMan {
 
 ```
 <p align="center">Visit my <a href="https://tehcman.com/">website</a>!</p>
-![90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04](https://user-images.githubusercontent.com/53152792/169699271-cc8b4911-2c86-4b98-82db-216ef74edd70.gif)
