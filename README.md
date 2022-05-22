@@ -43,4 +43,3 @@ public class RealTehcMan {
 
 ```
 <p align="center">Visit my <a href="https://tehcman.com/">website</a>!</p>
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
