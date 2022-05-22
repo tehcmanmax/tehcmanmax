@@ -44,3 +44,5 @@ public class RealTehcMan {
 
 ```
 <p align="center">Visit my <a href="https://tehcman.com/">website</a>!</p>
+
+<iframe src="https://giphy.com/embed/Rng7sDG4dkmyWev2qx" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theoffice-Rng7sDG4dkmyWev2qx">via GIPHY</a></p>
