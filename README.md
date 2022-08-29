@@ -8,7 +8,7 @@
 ```java
 package com.tehcman;
 
-public class RealTehcMan extends AwesomeProgrammer {
+public class RealTehcMan implements AwesomeProgrammer {
     private final String name = "Max";
     private final String university = "Uniwersytet Adama Mickiewicza (UAM)";
     private final String degree = "Bachelor of Computer Science";
