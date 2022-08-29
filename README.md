@@ -17,7 +17,7 @@ public class RealTehcMan implements AwesomeProgrammer {
     private String currentFocus = "Developing backend apps/webapps";
 
     enum TechStack {
-        JAVA, JPA, MVC, SQL, SPRINGBOOT, JUINT4, CRUD, REST
+        JAVA, ANGULAR, JPA, MVC, SQL, SPRINGBOOT, JUINT4, CRUD, REST
     }
 
     public String languages(String enviroment) {
