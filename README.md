@@ -12,8 +12,9 @@ public class RealTehcMan {
     private final String name = "Max";
     private final String university = "Uniwersytet Adama Mickiewicza (UAM)";
     private final String degree = "Bachelor of Computer Science";
+    private final String workPlace = "Capgemini Polska Sp. z o.o.";
     
-    private String currentFocus = "Developing backend apps/webapps using Java";
+    private String currentFocus = "Developing backend apps/webapps";
 
     enum TechStack {
         JAVA, JPA, MVC, SQL, SPRINGBOOT, JUINT4, CRUD, REST
