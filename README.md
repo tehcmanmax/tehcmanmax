@@ -14,7 +14,7 @@ public class RealTehcMan implements AwesomeProgrammer {
     private final String degree = "Engineer's degree";
     private final String workPlace = "Capgemini Polska Sp. z o.o.";
     
-    private String currentFocus = "Full stack developer";
+    private String currentFocus = "Full Stack Developer";
 
     enum TechStack {
         JAVA, ANGULAR, JS, TS, JPA, MVC, SQL, SPRINGBOOT, JUINT4, CRUD, REST
