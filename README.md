@@ -39,7 +39,7 @@ public class RealTehcMan implements AwesomeProgrammer {
         return new ArrayList<>(Arrays.asList(
                 "Owner of delivery company (sp. z.o.o)",
                 "Productivity nerd",
-                "Crypto investor"));
+                "Crypto/stock investor"));
     }
 }
 
