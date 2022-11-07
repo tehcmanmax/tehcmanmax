@@ -10,14 +10,14 @@ package com.tehcman;
 
 public class RealTehcMan implements AwesomeProgrammer {
     private final String name = "Max";
-    private final String university = "Uniwersytet Adama Mickiewicza (UAM)";
-    private final String degree = "Bachelor of Computer Science";
+    private final String university = "Uniwersytet Adama Mickiewicza (UAM), Poznan";
+    private final String degree = "Engineer's degree";
     private final String workPlace = "Capgemini Polska Sp. z o.o.";
     
-    private String currentFocus = "Developing backend apps/webapps";
+    private String currentFocus = "Full stack developer";
 
     enum TechStack {
-        JAVA, ANGULAR, JPA, MVC, SQL, SPRINGBOOT, JUINT4, CRUD, REST
+        JAVA, ANGULAR, JS, TS, JPA, MVC, SQL, SPRINGBOOT, JUINT4, CRUD, REST
     }
 
     public String languages(String enviroment) {
