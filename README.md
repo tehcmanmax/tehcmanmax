@@ -3,17 +3,17 @@
  always busy, always on the grind</p>
 
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there!</h2>
-<!-- <h2 align="center"> 👋 Hi there!</h2> -->
+<!-- <h2 align="center"> 👋 Hi there! I'm Max</h2> -->
 
 ```java
 package com.tehcman;
 
 public class RealTehcMan implements AwesomeProgrammer {
-    private final String name = "Max";
-    private final String university = "Uniwersytet Adama Mickiewicza (UAM), Poznan";
+    private final String fullFirstName = "Maksym";
+    private final String university = "Uniwersytet Adama Mickiewicza (UAM), Poznan, Poland";
     private final String degree = "Engineer's degree";
     private final String workPlace = "Capgemini Polska Sp. z o.o.";
-    
+
     private String currentFocus = "Full Stack Developer";
 
     enum TechStack {
@@ -40,9 +40,11 @@ public class RealTehcMan implements AwesomeProgrammer {
     public ArrayList<String> activities() {
         return new ArrayList<>(Arrays.asList(
                 "Productivity nerd",
+                "Language enthusiast",
                 "Crypto/stock investor"));
     }
 }
 
 ```
+
 <p align="center">Visit my <a href="https://tehcman.com/">website</a>!</p>
