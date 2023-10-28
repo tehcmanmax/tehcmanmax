@@ -20,8 +20,8 @@ public class RealTehcMan implements AwesomeProgrammer {
         JAVA, ANGULAR, JS, TS, JPA, MVC, SQL, SPRINGBOOT, JUINT4, CRUD, REST
     }
 
-    public String languages(String enviroment) {
-        switch (enviroment) {
+    public String languagesISpeak(String environment) {
+        switch (environment) {
             case "Poland":
                 return "Polish";
             case "USA":
@@ -30,6 +30,8 @@ public class RealTehcMan implements AwesomeProgrammer {
                 return "Ukrainian";
             case "Russia":
                 return "Russian";
+            case "Italy":
+                return "Italian";
             default:
                 return "English";
         }
@@ -37,7 +39,6 @@ public class RealTehcMan implements AwesomeProgrammer {
 
     public ArrayList<String> activities() {
         return new ArrayList<>(Arrays.asList(
-                "Owner of delivery company (sp. z.o.o)",
                 "Productivity nerd",
                 "Crypto/stock investor"));
     }
