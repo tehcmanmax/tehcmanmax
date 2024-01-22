@@ -9,12 +9,12 @@
 package com.tehcman;
 
 public class RealTehcMan implements AwesomeProgrammer {
-    private final String fullFirstName = "Maksym";
     private final String university = "Uniwersytet Adama Mickiewicza (UAM), Poznan, Poland";
+    private final short graduationYear = 2023;
     private final String degree = "Engineer's degree";
     private final String workPlace = "Capgemini Polska Sp. z o.o.";
 
-    private String currentFocus = "Full Stack Developer";
+    private String currentFocus = "Full Stack";
 
     enum TechStack {
         JAVA, ANGULAR, JS, TS, JPA, MVC, SQL, SPRINGBOOT, JUINT4, CRUD, REST
