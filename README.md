@@ -12,7 +12,7 @@ public class RealTehcMan implements AwesomeProgrammer {
     private final String university = "Uniwersytet Adama Mickiewicza (UAM), Poznan, Poland";
     private final short graduationYear = 2023;
     private final String degree = "Engineer's degree";
-    private final String workPlace = "Capgemini Polska Sp. z o.o.";
+    private String workPlace = "Capgemini Polska Sp. z o.o.";
 
     private String currentFocus = "Full Stack";
 
