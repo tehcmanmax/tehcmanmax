@@ -1,4 +1,4 @@
-<p align="left"> <img width="170px" src="https://komarev.com/ghpvc/?username=tehcmanmax&abbreviated=true&base=1281&label=Profile%20views&color=BE3536&style=plastic" alt="aayushsaini101" /> </p>
+<p align="left"> <img width="140px" src="https://komarev.com/ghpvc/?username=tehcmanmax&abbreviated=true&base=1281&label=Profile%20views&color=BE3536&style=plastic" alt="aayushsaini101" /> </p>
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="453" height="365"/><br>
