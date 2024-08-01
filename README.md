@@ -19,7 +19,7 @@ public class RealTehcMan implements AwesomeProgrammer {
     private String currentFocus = "Full Stack";
 
     enum TechStack {
-        JAVA, ANGULAR, JS, TS, JPA, MVC, SQL, SPRINGBOOT, JUINT4, CRUD, REST
+        JAVA, ANGULAR, JS, TS, JPA, MVC, SQL, SPRINGBOOT, JUINT5, CRUD, REST, QUARKUS, RESTASSURED
     }
 
     public String languagesISpeak(String environment) {
